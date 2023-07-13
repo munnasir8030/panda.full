@@ -1,0 +1,170 @@
+*{
+margin: 0%;
+padding: 0%;
+
+}
+.manu{
+display: flex;
+list-style: none;
+gap: 0px 7px;
+
+
+
+}
+.manu li a{
+text-decoration: none;
+color: rgba(110, 106, 106, 0.686);
+font-size: 15px;
+
+
+
+
+}
+.manu li a:hover{
+color: black;
+
+
+}
+.head{
+padding: 5px 80px;
+align-items: center;
+display: flex;
+gap: 0px 17px;
+background-color: #FAF9F8;
+
+
+}
+
+.headphone{
+display: flex;
+padding: 0px 40px;
+align-items: center;
+background-color: #FFECF0;
+margin: 0px 80px;
+height: 80vh;
+
+}
+
+.img{
+width: 200px;
+
+
+}
+.text{
+width: 100%;
+
+
+}
+.image{
+width: 30%;
+
+}
+.para{
+font-size: 14px;
+margin: 6px;
+
+}
+
+.price{
+color: orange;
+
+
+}
+
+.buy{
+background-color: #FF4A92;
+border: none;
+color: white;
+padding: 8px 8px;
+font-size: 16px;
+border-radius: 3px;
+
+
+}
+
+.shoe{
+padding: 0px 80px;
+/* display: flex; */
+/* gap: 0px 15px; */
+font-size: 20px;
+
+
+}
+
+.product{
+width: 250px;
+margin: auto;
+
+}
+.shoe123{
+display: flex;
+gap: 0px 15px;
+/* border: 5px solid lightgray; */
+
+}
+.supply{
+/* border: 1px solid lightgrey; */
+padding: 10px;
+box-shadow: 0px 0px 8px lightgray;
+border-radius: 2px;
+width: 33%;
+}
+.munna{
+height: 50px;
+font-size: 25px;
+}
+
+
+
+.bagimage{
+height: 250px;
+margin: auto;
+
+
+}
+.laltu{
+padding: 0px 80px;
+font-size: 10px;
+
+}
+
+.bagarea{
+display: flex;
+gap: 0px 15px;
+
+
+}
+.niltu{
+
+    padding: 10px;
+    box-shadow: 0px 0px 8px lightgray;
+    border-radius: 2px;
+    width: 33%;
+    font-size: 20px;
+
+
+}
+.last{
+background-color: #e9d9e4;
+padding: 0px 80px;
+width: 1200px;
+height: 300px;
+margin: auto;
+text-align: center;
+
+}
+.pack{
+height: 50px;
+font-size: 25px;
+
+
+}
+
+
+
+
+
+
+
+
+
